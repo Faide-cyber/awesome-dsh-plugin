@@ -1,5 +1,5 @@
 url: https://github.com/seventeenlyc/agent-relay/tree/main/integrations/dsh-package
-name: seventeenlyc/agent-relay#agent-relay-dsh
+name: seventeenlyc/agent-relay#dsh-package
 category: workflow
 description:
   en: "Cross-session handoff orchestration: six relay_* control tools, silent sidebar session materializer via session/create and session/prompt RPCs, DshHandoffHook for compaction/start and marker triggers, and a bundled agent-relay skill."
