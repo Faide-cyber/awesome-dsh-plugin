@@ -733,6 +733,7 @@ dsh plugin --profile web add dshmarket
 - [whiteguo233/dsh-openbiliclaw](https://github.com/whiteguo233/dsh-openbiliclaw) — OpenBiliClaw 的 DSH 消费侧插件：提供推荐、收藏列表、苏格拉底式对话、画像面板和 Agent Bridge 工具。
 - [WhitePlusMS/dsh-input-plus](https://github.com/WhitePlusMS/dsh-input-plus) — 在组合框中使用 `@` 搜索并插入工作区文件和目录路径，并通过 `/h` 菜单复用当前会话的问题。
 - [whiteS18/dsh-mcp-servers-panel](https://github.com/whiteS18/dsh-mcp-servers-panel) — 在设置中提供 MCP Servers 管理面板：新增、编辑、启停、删除服务器，支持用户/项目作用域与表单/JSON 双模式编辑，并自动把发现的 MCP 工具注册为对话原生工具。
+- [whiteS18/dsh-terminal-button](https://github.com/whiteS18/dsh-terminal-button) — DeepSeek Harness 内嵌终端插件：在右侧栏（DockKit Tab）或输入框下方以沉底抽屉形式提供界面内嵌的交互式终端，跟随官方主题与工作区目录，支持 PSReadLine 尺寸保护与位置热切换。
 - [winditer/dsh-prompt-optimizer](https://github.com/winditer/dsh-prompt-optimizer) — 在输入框按 ✨ 或 Alt+O 一键把草稿润色成更清晰、更结构化的 prompt；默认零配置复用当前会话模型（SSE 真流式、推理过程先出），也可自配任意 OpenAI 兼容端点。
 - [winditer/dsh-temp-chat](https://github.com/winditer/dsh-temp-chat) — DSH 页面悬浮的半透明 DeepSeek 鲸鱼小精灵：点击打开可拖动、可最小化的临时聊天浮窗，支持跟随会话模型或自定义 OpenAI 兼容端点实时流式输出。
 - [windrover/dsh-minimal-UI-panels](https://github.com/windrover/dsh-minimal-UI-panels) — 给 dsh web 客户端加四个右侧栏面板——产物浏览、长期记忆、终端、记事本——两两配成一个标签、中间可拖拽分栏，因此两个窗格就能同时看到四个面板。宿主侧一并提供：9 个 memory_* 工具、artifacts_list、/memory 命令，以及 /api/artifacts/* 与 /api/terminal-notes/* 路由。终端每行执行一条 bash 命令，带 120 秒期限与终止按钮。需要 dsh 0.1.5 或更新版本——右侧栏正是在那一版取代了旧的 details 列。
@@ -1228,6 +1229,7 @@ dsh plugin --profile web add dshmarket
 - [TaiyakiOffical/claude-style-skin](https://github.com/TaiyakiOffical/claude-style-skin) — Claude 风格暖调编辑 DSH Web 皮肤：象牙白/暖黑双画布、陶烬橙点睛、衬线标题+无衬线界面+等宽标签、发丝线与胶囊 CTA，亮暗双主题跟随系统。
 - [taoser258/dsh-client-ui-skin-qingxiao](https://github.com/taoser258/dsh-client-ui-skin-qingxiao) — 以《鸣潮》清宵为主题的 DSH Web 界面皮肤，冰蓝·青碧·月白配色，含剑气流光与可更换背景。
 - [TFboy1/dsh-minecraft-ui](https://github.com/TFboy1/dsh-minecraft-ui) — 将 DSH Web 直接呈现为可游玩的全屏第一人称 Minecraft 风格体素界面，而非只更换颜色的皮肤：用户可以在可持久化的 Three.js 方块世界中移动，并通过游戏内设施和工作台使用原生工作区、会话、对话、工具、模型选择、权限、上下文信息与输入框。
+- [Theflowyears/dsh-arknights-theme](https://github.com/Theflowyears/dsh-arknights-theme) — 明日方舟主题：12 张整屏壁纸，边缘虚化、羽化与玻璃浓度按每张图分别计算；文字色以 OKLCH 求解并守住 WCAG AA 下限；界面图标换成罗德岛素材；授权卡与选项卡带干员签名。
 - [tiantyu/dsh-skin-toggle](https://github.com/tiantyu/dsh-skin-toggle) — DSH 网页皮肤管理器：可拖动的鲸鱼按钮，左键恢复默认界面，右键列出并切换所有已安装皮肤。
 - [Tkingxiao/dsh-any-background](https://github.com/Tkingxiao/dsh-any-background) — DeepSeek Harness 外观一体化工具。对 8 个界面区域分别调节透明度与毛玻璃模糊（主背景、侧边栏、卡片面板、输入框与控件、设置面板、对话文本框、轨迹页、产出物/高亮内容；安装 dsh-better-sidebar 后为 9 个）。用任意图片或视频做壁纸，配有拖动平移、滚轮缩放的位置编辑器与 5 种布局模式（适应/填充/拉伸/平铺/居中）；视频静音循环播放、刷新不丢失，并自动截取一帧用于预览、取色与构图。把多张图片加入轮换池（随机/顺序，每次刷新/每天/每周）自动更换。还包含 PS 风格色轮、一键从壁纸提取主题色、6 套预设 + 命名配置、昼夜自动切换与主题一键导出导入。
 - [Tommy00748/dsh-theme-cyberpunk2077](https://github.com/Tommy00748/dsh-theme-cyberpunk2077) — Cyberpunk 2077 / 夜之城主题：NC 黄 × 霓虹青配色、CRT 扫描线、Kiroshi 悬停锁定、战斗状态 HUD、合成打字机与消息音效，以及隐藏彩蛋（relic / johnny）。
