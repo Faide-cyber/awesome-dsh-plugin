@@ -1,7 +1,7 @@
 url: https://github.com/Faide-cyber/dsh-workbuddy
 name: Faide-cyber/dsh-workbuddy
 category: model
-tarball: https://github.com/Faide-cyber/dsh-workbuddy/releases/download/v1.0.8/dsh-workbuddy-1.0.8.tgz
+tarball: https://github.com/Faide-cyber/dsh-workbuddy/releases/download/v1.0.9/dsh-workbuddy-1.0.9.tgz
 description:
   en: Connects WorkBuddy domestic and international models to DSH with browser OAuth, multi-account switching, free-model filtering, and optional domestic daily check-in.
   zh: 通过浏览器 OAuth 将 WorkBuddy 国内与国际模型接入 DSH，支持多账号切换、免费模型过滤和可选的国内每日签到。
